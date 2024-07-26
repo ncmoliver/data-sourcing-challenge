@@ -5,6 +5,8 @@ This is by far the most fun I have had thus far in my Bootcamp experience. This 
 Ultimately we made two dataframe out the information retrieved from both endpoints and combined them into one dataframe. Once combined, we were tasked with cleaning the data and exporting a clean version of the combined data. 
 ## Description
 Creates clean visualizaton for analyzing movie data using movie titles from the NYT API to search for additional information on the TMDB database. 
+## Installation 
+1. Clone Repository: `git clone` (https://github.com/ncmoliver/data-sourcing-challenge.git)
 ### Use Cases
 * Collecting movie-related articles from NYT API
 * Building datasets for movie trend analysis   
@@ -16,7 +18,10 @@ Creates clean visualizaton for analyzing movie data using movie titles from the 
 * Using .env to secure API Keys
 * Handling JSON responses and converting them to DataFrames
 ## Project Highlights
-
+| Features | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 ## References
 [Xpert Learning Assistance](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
 [Slack BCS Learning Assistant](https://slack.com)
