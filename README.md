@@ -10,11 +10,11 @@ Creates clean visualizaton for analyzing movie data using movie titles from the 
 1. Clone Repository: `git clone https://github.com/ncmoliver/data-sourcing-challenge.git`
 2. Navigate to project repository
 3. Install required dependencies
-request | `pip install requests`
-pandas | `pip install pandas`
-dotenv | `pip install dotenv`
-json | `pip install json`
-os | `pip install os`
+request | `pip install requests`    
+pandas | `pip install pandas`   
+dotenv | `pip install dotenv`    
+json | `pip install json`    
+os | `pip install os`    
 time | `pip install time`
 
 ## ⚙️ How It Works
