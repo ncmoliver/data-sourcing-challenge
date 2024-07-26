@@ -14,10 +14,6 @@ Creates clean visualizaton for analyzing movie data using movie titles from the 
 * Understanding API request methods and authentication
 * Using .env to secure API Keys
 * Handling JSON responses and converting them to DataFrames
-## New York Times
-
-## The Movie Data 
-
 ## Project Highlights
 
 ## References
