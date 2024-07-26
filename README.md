@@ -35,7 +35,7 @@ time | `pip install time`
 | Rate Limiting | Implements a delay between API request to comply with rate limits.ext |
 ## References
 [Xpert Learning Assistance](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
-[Slack BCS Learning Assistant](https://slack.com)    
+[Slack BCS Learning Assistant(s)](https://slack.com)    
 [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)    
 [New York Times API](https://developer.nytimes.com/docs/movie-reviews-api/1/overview)      
 [The Movie Database API](https://developer.themoviedb.org/reference/intro/getting-started)
