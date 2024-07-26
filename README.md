@@ -20,9 +20,12 @@ os | `pip install os`
 time | `pip install time`
 
 ## ⚙️ How It Works
-1. Open the `retrieve_movie_data.ipynb` Jupyter Notebook.
-2. Run the notebook cells sequentially to execute the data retrieval process.
-3. The script will fetch movies from the New York Times API and use the titles to fetch addtional details on each movie through TMDB API.
+1. Open the `retrieve_movie_data.ipynb` Jupyter Notebook.   
+
+2. Run the notebook cells sequentially to execute the data retrieval process.   
+
+3. The script will fetch movies from the New York Times API and use the titles to fetch addtional details on each movie through TMDB API.    
+
 4. Using the data retrieved, the program will combine the dataframes into one dataframe (on the 'title' column) and clean it up for readability.
 ## Key Functions
 | Function | Description |
@@ -36,3 +39,6 @@ time | `pip install time`
 [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)
 [New York Times API](https://developer.nytimes.com/docs/movie-reviews-api/1/overview)
 [The Movie Database API](https://developer.themoviedb.org/reference/intro/getting-started)
+
+## Author
+Marques Oliver
