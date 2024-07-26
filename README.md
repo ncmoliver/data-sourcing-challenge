@@ -37,7 +37,7 @@ time | `pip install time`
 [Xpert Learning Assistance](https://bootcampspot.instructure.com/courses/6028/external_tools/313)    
 [Slack BCS Learning Assistant](https://slack.com)    
 [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)    
-[New York Times API](https://developer.nytimes.com/docs/movie-reviews-api/1/overview)
+[New York Times API](https://developer.nytimes.com/docs/movie-reviews-api/1/overview)      
 [The Movie Database API](https://developer.themoviedb.org/reference/intro/getting-started)
 
 ## Author
