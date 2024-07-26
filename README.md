@@ -7,8 +7,10 @@ Ultimately we made two dataframe out the information retrieved from both endpoin
 ## ✐ Description
 Creates clean visualizaton for analyzing movie data using movie titles from the NYT API to search for additional information on the TMDB database. 
 ## 📉 Installation 
-1. Clone Repository: `git clone https://github.com/ncmoliver/data-sourcing-challenge.git`
-2. Navigate to project repository
+1. Clone Repository: `git clone https://github.com/ncmoliver/data-sourcing-challenge.git`   
+
+2. Navigate to project repository    
+
 3. Install required dependencies
 request | `pip install requests`    
 pandas | `pip install pandas`   
